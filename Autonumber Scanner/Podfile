@@ -1,0 +1,13 @@
+platform :ios, '9.0'
+
+target 'Autonumber Scanner' do
+  use_frameworks!
+     pod 'AWSCognito'
+     pod 'AWSCognitoIdentityProvider'
+     pod 'AWSLambda'
+	 pod 'Proposer'
+	 pod 'ENSwiftSideMenu', '~> 0.1.1'
+	 pod 'CameraEngine'
+	 pod 'Forbind'
+
+end

@@ -1,0 +1,6 @@
+framework module Forbind {
+  umbrella header "Forbind-umbrella.h"
+
+  export *
+  module * { export * }
+}
